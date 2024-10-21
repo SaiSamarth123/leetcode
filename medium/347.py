@@ -7,6 +7,7 @@
 from typing import List
 
 
+# O(nlogn)
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
